@@ -3,4 +3,4 @@
 * Rails Version: 4.2.5
 * PostgreSQL: 9.4.5
 === School Management Information System
-  This is the basic account system for demonstrating client and testing.
+  This is the basic school management information system for demonstrating client and testing.
